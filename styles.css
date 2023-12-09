@@ -1,0 +1,58 @@
+html, body{
+    height: 100%;
+}
+button{
+    width: 100%;
+        background-color: inherit;
+    border-width: 0px;
+}
+.header{
+    min-width: 100%;
+    text-align: center;
+}
+.container{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.row{
+    height: 400px;
+}
+.note{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.do{
+    background-color: #D95D5D;
+}
+.re{
+    background-color: #DB8525;
+}
+.mi{
+    background-color: #E8C43C;
+}
+.fa{
+    background-color: #BED649; 
+}
+.so{
+    background-color: #9ECBDB;
+}
+.la{
+    background-color: #6399A5;
+}
+.ti{
+    background-color: #C771A1;
+}
+.do{
+    background-color: #D95D5D;
+}
+.screw{
+    background: lightblue;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 80px auto 80px auto;
+}
